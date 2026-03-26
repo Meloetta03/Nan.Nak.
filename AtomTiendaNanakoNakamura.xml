@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+ 
+
+  <title>Tienda Nanako Nakamura — Novedades</title>
+  <subtitle>Figuras, peluches, joyería, cosplays y mucho más a precios asequibles.</subtitle>
+  <id>https://noeliacobacho.github.io/nanako-nakamura/feed.atom</id>
+  <link href="https://noeliacobacho.github.io/nanako-nakamura/" rel="alternate" type="text/html"/>
+  <link href="https://noeliacobacho.github.io/nanako-nakamura/feed.atom" rel="self" type="application/atom+xml"/>
+  <updated>2026-03-26T10:00:00+01:00</updated>
+  <rights>© 2026 Nanako Nakamura. Todos los derechos reservados.</rights>
+ 
+  <author>
+    <name>Susumi Nakajima</name>
+    <email>nanako.nakamura@gmail.com</email>
+  </author>
+ 
+ 
+  <entry>
+    <title>¡Nueva figura disponible! Hatsune Miku Wonderland: Rapunzel (Taito)</title>
+    <id>https://noeliacobacho.github.io/nanako-nakamura/novedades/miku-rapunzel-2026</id>
+    <link href="https://www.goodsmile.com/ja" rel="alternate" type="text/html"/>
+    <updated>2026-03-20T09:00:00+01:00</updated>
+    <published>2026-03-20T09:00:00+01:00</published>
+    <author>
+      <name>Susumi Nakajima</name>
+    </author>
+    <summary type="html">
+      &lt;p&gt;¡Ya está disponible para encargar la preciosa figura de &lt;strong&gt;Hatsune Miku
+      Wonderland: Rapunzel&lt;/strong&gt; de Taito! Escala 1/7, con todos sus detalles de
+      fantasía. Consúltanos precio sin compromiso: lo gestionamos directamente sin que
+      tengas que preocuparte por la importación.&lt;/p&gt;
+    </summary>
+    <category term="figuras" label="Figuras"/>
+    <category term="hatsune-miku" label="Hatsune Miku"/>
+  </entry>
+ 
+
+  <entry>
+    <title>🌸 Sorteo de Primavera: gana una figura gacha gratis</title>
+    <id>https://noeliacobacho.github.io/nanako-nakamura/novedades/sorteo-primavera-2026</id>
+    <link href="https://www.twitter.com" rel="alternate" type="text/html"/>
+    <updated>2026-03-15T12:00:00+01:00</updated>
+    <published>2026-03-15T12:00:00+01:00</published>
+    <author>
+      <name>Susumi Nakajima</name>
+    </author>
+    <summary type="html">
+      &lt;p&gt;¡Celebramos la primavera con un &lt;strong&gt;sorteo especial&lt;/strong&gt;! Participa en
+      nuestras redes sociales (Twitter/X &lt;em&gt;@45_Naka&lt;/em&gt; o Facebook &lt;em&gt;NakajimaSusumi&lt;/em&gt;)
+      siguiéndonos y compartiendo esta publicación. El premio es una figura gacha a
+      elegir de nuestro catálogo, con envío incluido. ¡Suerte a todos!&lt;/p&gt;
+    </summary>
+    <category term="sorteos" label="Sorteos"/>
+    <category term="figuras-gacha" label="Figuras Gacha"/>
+  </entry>
+ 
+  
+  <entry>
+    <title>Nuevo lote de snacks y dulces japoneses — ¡Pedidos abiertos!</title>
+    <id>https://noeliacobacho.github.io/nanako-nakamura/novedades/snacks-japoneses-marzo-2026</id>
+    <link href="https://www.amiami.com/eng/" rel="alternate" type="text/html"/>
+    <updated>2026-03-10T11:00:00+01:00</updated>
+    <published>2026-03-10T11:00:00+01:00</published>
+    <author>
+      <name>Susumi Nakajima</name>
+    </author>
+    <summary type="html">
+      &lt;p&gt;Abrimos pedidos para un nuevo lote de &lt;strong&gt;dulces y snacks japoneses&lt;/strong&gt;:
+      Pocky, Hi-Chew, Ramune, KitKat edición japonesa y mucho más. Precios muy ajustados,
+      sin complicaciones de importación. Escríbenos o rellena el formulario de pedido
+      de la web antes del &lt;strong&gt;5 de abril&lt;/strong&gt; para unirte al grupo.&lt;/p&gt;
+    </summary>
+    <category term="snacks" label="Snacks"/>
+    <category term="dulces-japoneses" label="Dulces Japoneses"/>
+  </entry>
+ 
+</feed>
